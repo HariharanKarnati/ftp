@@ -6,7 +6,7 @@ bb
 c
 <<<<<<< HEAD
 piyusdhsdjf h
- i am bad boy 
+good boy 
 =======
 piyusdhsdjfh
 Helping Hari
