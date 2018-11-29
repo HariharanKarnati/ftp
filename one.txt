@@ -4,10 +4,9 @@ Orange
 aaa
 bb
 c
-<<<<<<< HEAD
 piyusdhsdjf h
 good boy 
-=======
+
 piyusdhsdjfh
 Helping Hari
->>>>>>> 70aa7b725b0072373f736cae6a00e9054069e200
+
